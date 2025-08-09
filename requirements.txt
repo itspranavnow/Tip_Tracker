@@ -1,0 +1,11 @@
+streamlit>=1.33.0
+pandas>=2.0.0
+numpy>=1.24.0
+faker>=24.0.0
+qrcode[pil]>=7.4.2
+pillow>=10.0.0
+# Sentiment analysis (optional). If install is slow/fails, you can remove these.
+transformers>=4.41.0
+torch>=2.2.0
+bcrypt>=4.0.1
+

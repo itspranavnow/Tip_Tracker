@@ -1,0 +1,20 @@
+# Python/Streamlit
+__pycache__/
+.pytest_cache/
+.venv/
+env/
+venv/
+.DS_Store
+*.pyc
+.streamlit/
+
+# Data artifacts
+data/*.png
+data/*.json
+data/*.parquet
+data/*.db
+
+# Model cache
+~/.cache/huggingface/
+/.cache/
+

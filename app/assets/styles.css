@@ -1,0 +1,16 @@
+/* Minimal additional styles for Streamlit */
+.metric-box {
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 8px;
+  padding: 12px;
+}
+.feedback-card {
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+.sent-pos { color: #15803d; font-weight: 600; }
+.sent-neg { color: #b91c1c; font-weight: 600; }
+.sent-neu { color: #334155; font-weight: 600; }
+
